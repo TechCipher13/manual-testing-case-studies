@@ -6,3 +6,7 @@ Add below project details, (Create custom requirement)
 - Best practices
 - Test reporting
 - Domain Expertise (High level domains)
+
+Testcases
+---------------------------------------------------------------
+![alt text](https://github.com/TechCipher13/manual-testing-case-studies/blob/main/TestCases.png)
